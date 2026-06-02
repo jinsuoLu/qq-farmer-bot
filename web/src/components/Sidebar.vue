@@ -741,7 +741,7 @@ async function copyToken() {
           <div class="flex items-center gap-2">
             <span>Web v{{ version }}</span>
             <a
-              href="https://github.com/XyhTender/qq-farm-automation-bot"
+              href="https://github.com/jinsuoLu/qq-farmer-bot"
               target="_blank"
               rel="noopener noreferrer"
               title="开源地址"
@@ -1016,7 +1016,7 @@ async function copyToken() {
             系统公告
           </h3>
         </div>
-
+        
         <div class="announcement-content mb-4 overflow-y-auto whitespace-pre-wrap rounded-lg bg-gray-50 p-4 text-sm text-gray-700 dark:bg-gray-700/50 dark:text-gray-300">
           {{ currentAnnouncement.content }}
         </div>
