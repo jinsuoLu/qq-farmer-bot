@@ -139,7 +139,7 @@ corepack enable
 pnpm -v
 
 # 2. 克隆仓库并安装依赖
-git clone https://github.com/XyhTender/qq-farm-bot.git
+git clone https://github.com/jinsuoLu/qq-farm-bot.git
 cd qq-farm-bot
 pnpm install
 pnpm build:web
@@ -160,7 +160,7 @@ pnpm dev:core
 
 ```bash
 # 或手动部署
-git clone https://github.com/XyhTender/qq-farm-bot.git
+git clone https://github.com/jinsuoLu/qq-farm-bot.git
 cd qq-farm-bot
 pnpm install
 pnpm build:web
@@ -177,7 +177,7 @@ pnpm dev:core
 
 ```bash
 # 拉取仓库
-git clone https://github.com/XyhTender/qq-farm-bot.git
+git clone https://github.com/jinsuoLu/qq-farm-bot.git
 cd qq-farm-bot
 
 # 构建并后台启动
@@ -203,7 +203,7 @@ pnpm install
 pnpm package:release
 ```
 
-产物输出在 `dist/bin/` 目录，也可在 [Releases](https://github.com/XyhTender/qq-farm-bot/releases) 中直接下载。
+产物输出在 `dist/bin/` 目录，也可在 [Releases](https://github.com/jinsuoLu/qq-farm-bot/releases) 中直接下载。
 
 | 平台 | 文件名 |
 |------|--------|

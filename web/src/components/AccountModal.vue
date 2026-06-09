@@ -146,6 +146,14 @@ watch(() => props.show, (newVal) => {
             class="farm-input"
           />
 
+           <a
+            href="http://www.yuban.ltd/farm/"
+            target="_blank"
+            class="text-sm text-blue-500 hover:text-blue-600 hover:underline"
+          >
+            🛠️ 微信在线获取Code工具
+          </a>
+
           <div v-if="!editData" class="flex gap-4">
             <label class="flex cursor-pointer items-center gap-2">
               <input

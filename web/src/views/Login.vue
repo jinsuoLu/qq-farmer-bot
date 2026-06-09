@@ -439,7 +439,7 @@ async function fetchGameVersion() {
           <span class="version">v{{ appVersion }}</span>
           <span class="separator">|</span>
           <a
-            href="https://github.com/XyhTender/qq-farm-automation-bot"
+            href="https://github.com/jinsuoLu/qq-farm-automation-bot"
             target="_blank"
             rel="noopener noreferrer"
             class="github-link"
